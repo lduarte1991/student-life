@@ -6,6 +6,8 @@
       dark
     >
       <v-toolbar-title>Socialize Remotely</v-toolbar-title>
+      <v-spacer></v-spacer>
+      <v-btn color="white" light href="/logout">Log out</v-btn>
     </v-app-bar>
 
     <v-content>
