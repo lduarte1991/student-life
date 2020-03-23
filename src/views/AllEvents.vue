@@ -52,7 +52,7 @@
                 return data;
             }
             this.axios
-                .get('http://127.0.0.1:8000/event/all/')
+                .get('https://devo.playremote.hxtech.org/event/all/')
                 .then(response => this.evs = formatDateTime(response.data))
                 .then( () => this.original_events = this.evs)
         },

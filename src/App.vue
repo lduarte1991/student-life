@@ -5,7 +5,7 @@
       color="red darken-4"
       dark
     >
-      <v-toolbar-title>Student Life</v-toolbar-title>
+      <v-toolbar-title>Socialize Remotely</v-toolbar-title>
     </v-app-bar>
 
     <v-content>

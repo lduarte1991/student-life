@@ -114,7 +114,7 @@
                 return data;
             }
             this.axios
-                .get('http://127.0.0.1:8000/event/today/')
+                .get('https://devo.playremote.hxtech.org/event/today/')
                 .then(response => this.evs = collectFilterData(response.data))
                 .then( () => this.original_events = this.evs)
         },
