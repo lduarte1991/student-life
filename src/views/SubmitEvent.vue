@@ -136,14 +136,14 @@
     export default {
         data: function() {
             return {
-                creator: "Test",
-                creator_email: "TEst",
+                creator: "",
+                creator_email: "",
                 display_email: false,
-                title: "Test",
-                description: "Test",
-                join_link: "Test",
+                title: "",
+                description: "",
+                join_link: "",
                 step_counter: 1,
-                platform: "TEst",
+                platform: "",
                 duration: 30,
                 start_date: new Date().toISOString().substr(0, 10),
                 start_time: "09:30",
