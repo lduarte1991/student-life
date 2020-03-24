@@ -50,7 +50,7 @@
       color="red darken-4"
       app
     >
-      <span class="white--text">©2020 VPAL | Terms of Service</span>
+      <span class="white--text">© 2020 The President and Fellows of Harvard College | Terms of Service | Private Policy</span>
     </v-footer>
   </v-app>
 </template>
